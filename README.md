@@ -19,7 +19,6 @@ I'm Kr1sz
 🛠 To Learn
 🔧   C | C# | C++ | Java
 
-
-
+		
 
 [![Kr1sz's github stats](https://github-readme-stats.vercel.app/api?username=thekr1szten)](https://github.com/anuraghazra/github-readme-stats)
