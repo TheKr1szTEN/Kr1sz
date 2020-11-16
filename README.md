@@ -19,6 +19,11 @@ I'm Kr1sz
 🛠 To Learn
 🔧   C | C# | C++ | Java
 
+🚀 My Businesses
+	💨 TryWillon (Founder)
+	💨 Magyar Spigot Fórum (Founder)
+	💨 ExternalGaming (Founder)
+
 		
 
 [![Kr1sz's github stats](https://github-readme-stats.vercel.app/api?username=thekr1szten)](https://github.com/thekr1szten/github-readme-stats)
