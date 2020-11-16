@@ -22,5 +22,4 @@ I'm Kr1sz
 
 
 
-
 [![Kr1sz's github stats](https://github-readme-stats.vercel.app/api?username=thekr1szten)](https://github.com/anuraghazra/github-readme-stats)
