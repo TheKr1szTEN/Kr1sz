@@ -3,7 +3,7 @@ I'm Kr1sz
 
 
 👨🏻•💻 About Me
-🤔   I have been a front end developer for 4 years, i deal with writing small systems
+🤔   I have been a front end developer for 7 years, i deal with writing small systems
 
 🎓   I am currently studying to be a web developer, web designer and system administrator.
 
@@ -11,18 +11,18 @@ I'm Kr1sz
 
 ✍️   I pursue web development (Design and System) as a hobby
 
-🛠 Tech Stack
-💻   Python | PhP | Lua | MySQL
-
 🌐   HTML | CSS | JavaScript | Bootstrap |
 
-🛠 To Learn
-🔧   C | C# | C++ | Java
+🛠 Tech Stack To Learn
+🔧   C | C# | C++ | Java | PHP | Python | Lua | MySQL
 
 🚀 My Businesses
 	💨 TryWillon (Founder)
-	💨 Magyar Spigot Fórum (Founder)
-	💨 ExternalGaming (Founder)
+	💨 Hungarian Spigot Forum (Founder) - !OUTDATED!
+	💨 CrimeCity.hu (Founder)
+ 	💨 GruppeSechs.hu (Developer)
+
+ 
 
 		
 
